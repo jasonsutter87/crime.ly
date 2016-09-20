@@ -4,7 +4,8 @@ html, body {
   padding: 0;
 }
 #map {
-  height: 100%;
+  margin-top: -20px;
+  height: 94%;
 }
 #searchBox {
   height: 100%;
