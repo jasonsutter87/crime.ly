@@ -1,5 +1,6 @@
 $(document).ready(function(){
   console.log("READY")
+
   // base URI
   url = 'https://data.sfgov.org/resource/7a3q-s79u.json';
 
@@ -128,3 +129,4 @@ $(document).ready(function(){
     }
   }
 })
+
