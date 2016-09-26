@@ -34,3 +34,7 @@ header div a {
 .red {
     color: #B22222;
 }
+
+.navbar{
+   border-radius: 0px;
+}
